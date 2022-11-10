@@ -20,3 +20,5 @@ INSTRUCTIONS
 7. Include a timeline information that ranges from identification of project - planning - implementation - 
 
 8. ALTERNATIVELY, use this notion template and upload it upon project completion. LINK: https://www.notion.so/Project-management-4f2aa80294474734a632d9fc3ba7c00b 
+
+9. LASTLY, use any language of your choice having decided as a team and achieve the end result. 
